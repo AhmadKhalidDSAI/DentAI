@@ -1,0 +1,5 @@
+train: train/images
+val: test/images
+test: test/images
+nc: 9
+names: ['Caries', 'Deep Caries', 'Impacted', 'Periapical Lesion', 'Missing teeth', 'Cyst', 'Retained root', 'Root Canal Treatment', 'Root Piece']
